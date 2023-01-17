@@ -30,19 +30,19 @@ principal components chosen to represent that image. <br>
 
 ## Tasks:
 <br>
-**_1._** Develop understanding of multispectral/multidimensional images, download a Landsat 
+[1]. Develop understanding of multispectral/multidimensional images, download a Landsat 
 image of a location from USGS website (could be any location of interest in Pakistan, 
 however, images for any 2 groups should not be same – this would be done by mentioning 
 your chosen location on a shared MS Teams files) and perform basic operations (visualize 
 different bands, crop size in any dimension, concatenate bands etc.) with the image in any 
 suitable platform (Matlab, Python etc.)
 <br><br>
-**_2._** Develop understanding of PCA, including how does it help in the processing of 
+[2]. Develop understanding of PCA, including how does it help in the processing of 
 multidimensional images and how does PCA relates to the concepts from the course of 
 Linear Algebra II, and apply PCA to your image such that you are able to demonstrate that 
 PCA could be performed using any number of principal components by your code.
 <br><br>
-**_3._** Perform an error analysis on the use of PCA on your image by choosing different number 
+[3]. Perform an error analysis on the use of PCA on your image by choosing different number 
 of Principal Components and calculate the resulting error in each case. You should be able 
 to demonstrate the usefulness of the PCA approach in comparison to its non-usage based 
 on the error analysis. Also recommend a suitable number of Principal Components to be 
@@ -50,7 +50,7 @@ used based on the error analysis. You can calculate the error by comparing the P
 resulting image with the original image and using any suitable difference metric e.g. mean 
 square error etc.
 <br><br>
-**_4._** CEP report, which your team will use to give a viva on your CEP as well. The report should 
+[4]. CEP report, which your team will use to give a viva on your CEP as well. The report should 
 be of standard format with no more than 5 pages in double-column format – preferably use 
 the IEEE Word template for conferences [9]. The report should include the sections of Title, 
 Authors, Abstract, Introduction, Methodology, Task distribution (this section should be 
